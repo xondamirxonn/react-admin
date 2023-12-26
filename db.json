@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Eshmat", "age": 32 },
+    { "id": 2, "name": "Toshmat", "age": 28 },
+    { "id": 3, "name": "Tesha", "age": 45 },
+    { "id": 4, "name": "Bolta", "age": 60 },
+    { "id": 5, "name": "Ketmon", "age": 18 }
+  ]
+}
